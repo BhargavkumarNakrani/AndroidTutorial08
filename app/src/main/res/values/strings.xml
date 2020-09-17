@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tutorial 08</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtUserName">Username</string>
+    <string name="emailPlaceholder">Enter Email Id</string>
+    <string name="txtPassword">Password</string>
+    <string name="editPassword">Enter Password</string>
+    <string name="btnSubmit">Login</string>
+    <string name="btnLogout">Logout</string>
+
+    <string-array name="city">
+        <item>Select City</item>
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+        <item>Rajkot</item>
+        <item>Junagadh</item>
+        <item>Vadodara</item>
+    </string-array>
+</resources>
